@@ -1,5 +1,10 @@
 #headshot {
     height: 300px;
     width: 300px;
-    object-fit: cover;
+    object-fit: contain;
+    border-radius: 10%;
+}
+
+button {
+    text-align: center;
 }
